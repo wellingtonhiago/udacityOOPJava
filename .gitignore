@@ -1,0 +1,4 @@
+# Project exclude paths
+/udacityOOPJava/.gradle/
+/udacityOOPJava/build/
+/udacityOOPJava/build/classes/java/main/
